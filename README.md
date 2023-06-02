@@ -1,4 +1,4 @@
-# MLOPsTemplate
+# MLOPs Template
 
 ### Project Structure
 ```

@@ -1,4 +1,4 @@
-# MLOPs Template
+# MLOps Template
 
 ### Project Structure
 ```
@@ -58,7 +58,7 @@ project_name/
 |
 |__ requirements.txt                    - Python dependencies for the project
 |
-|__ .env                                - Enviroment secrets (APIs KEYS, passwords, etc...) Obs. is listed in gitignore file to not push
+|__ .env                                - Env secrets (KEYS, passwords, etc...) Obs. Listed in .gitignore
 |
 |__ Makefile                            - Make file for CI/CD
 ```
